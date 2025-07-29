@@ -127,7 +127,12 @@
               }
             },
             "tableSettings": {
-              "type": "ResponsiveTable"
+              "type": "GridTable",
+              "copy": false
+            },
+            "variantManagementHidden": false,
+            "dataLoadSettings": {
+              "loadDataOnAppLaunch": "always"
             }
           }
         },

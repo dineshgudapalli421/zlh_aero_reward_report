@@ -1,0 +1,41 @@
+{
+    "fileName": "id_1753717488686_1636_propertyChange",
+    "fileType": "change",
+    "changeType": "propertyChange",
+    "moduleName": "",
+    "reference": "com.sap.lh.mr.zlhaerorewardreport",
+    "packageName": "",
+    "content": {
+        "property": "visible",
+        "newValue": false
+    },
+    "selector": {
+        "id": "com.sap.lh.mr.zlhaerorewardreport::sap.suite.ui.generic.template.ListReport.view.ListReport::AeroRewards--template::Share",
+        "idIsLocal": false,
+        "type": "sap.m.Button"
+    },
+    "layer": "CUSTOMER_BASE",
+    "texts": {},
+    "namespace": "apps/com.sap.lh.mr.zlhaerorewardreport/changes/",
+    "projectId": "",
+    "creation": 1753717488686,
+    "originalLanguage": "",
+    "support": {
+        "generator": "changeUtils: SAPFioriTools",
+        "service": "",
+        "user": "",
+        "sapui5Version": "1.120.0",
+        "sourceChangeFileName": "",
+        "compositeCommand": ""
+    },
+    "oDataInformation": {},
+    "dependentSelector": {},
+    "validAppVersions": {
+        "from": "0.0.1",
+        "to": "0.0.1",
+        "creation": "0.0.1"
+    },
+    "jsOnly": false,
+    "variantReference": "",
+    "appDescriptorChange": false
+}
